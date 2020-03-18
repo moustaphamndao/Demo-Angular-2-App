@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAngular2", "DemoAngular2\DemoAngular2.csproj", "{B0FA59EC-F505-455D-AC1A-5646935A308E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWebAPIService", "EmployeeWebAPIService\EmployeeWebAPIService.csproj", "{2BC06761-2458-4C6A-A7A7-DAF4CC31A9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FA59EC-F505-455D-AC1A-5646935A308E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FA59EC-F505-455D-AC1A-5646935A308E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FA59EC-F505-455D-AC1A-5646935A308E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FA59EC-F505-455D-AC1A-5646935A308E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC06761-2458-4C6A-A7A7-DAF4CC31A9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC06761-2458-4C6A-A7A7-DAF4CC31A9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC06761-2458-4C6A-A7A7-DAF4CC31A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC06761-2458-4C6A-A7A7-DAF4CC31A9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C599DA-D72B-4C60-9D5B-261497549BD6}
+	EndGlobalSection
+EndGlobal
